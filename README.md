@@ -1,2 +1,2 @@
 # portfolio
-My data entry computer science portfolio
+My data entry and computer science portfolio
