@@ -14,6 +14,7 @@ I have completed projects involving real-world datasets, where I improved data a
 - C++ (Basic)
 - Attention to Detail
 - Verbal and Written Communication
+- Typing Speed: 41 WPM
 
 ## Projects
 
