@@ -24,6 +24,12 @@ I have completed projects involving real-world datasets, where I improved data a
 - Sorted and structured data for improved readability
 - Created both raw and cleaned versions for comparison
 
+### File Organizer Script (Python)
+- Developed a Python script to automatically organize files into folders by type
+- Categorized files such as documents, images, and media
+- Improved file management and reduced manual organization time
+- Used Python libraries such as os and shutil
+
 ## Contact
 Joshua Morales  
 East Stroudsburg, PA  
