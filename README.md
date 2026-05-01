@@ -30,6 +30,14 @@ I have completed projects involving real-world datasets, where I improved data a
 - Improved file management and reduced manual organization time
 - Used Python libraries such as os and shutil
 
+### Student Grade Manager (C++)
+- Developed a basic program to input student grades and calculate averages
+- Used loops, variables, and input/output operations
+
+### Calculator Program (Java)
+- Built a simple calculator supporting basic operations
+- Used conditionals and user input handling
+
 ## Contact
 Joshua Morales  
 East Stroudsburg, PA  
